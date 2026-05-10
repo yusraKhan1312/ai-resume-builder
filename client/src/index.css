@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+*{
+      font-family: "Martel Sans", sans-serif, 'Poppins', 'Outfit';
+}
+
+@layer base {
+      button {
+            @apply cursor-pointer;
+      }
+}
+
+@media print {
+
+  @page {
+    margin: 0;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background: white;
+  }
+
+  body * {
+    visibility: hidden;
+  }
+
+  #resume-preview,
+  #resume-preview * {
+    visibility: visible;
+  }
+
+  #resume-preview {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
