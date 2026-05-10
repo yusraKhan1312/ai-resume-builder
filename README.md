@@ -129,7 +129,7 @@ An AI-powered resume builder that helps users create professional resumes with r
 ![Dashboard](docs/screenshots/dashboard.png)
 
 ### Resume Builder
-![Resume Builder](docs/screenshots/resume-builder.png)
+![Resume Builder](docs/screenshots/resume_builder.png)
 
 ### AI Resume Improvement
 ![AI Resume Improvement](docs/screenshots/ai_improve.png)
