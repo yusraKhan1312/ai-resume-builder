@@ -165,4 +165,3 @@ If you have any feedback or suggestions, feel free to open an issue on GitHub.
 ---
 
 Built with React, Node.js, MongoDB, and OpenAI.</content>
-<parameter name="filePath">c:\Users\dell\Downloads\AI_Resume_builder\README.md
